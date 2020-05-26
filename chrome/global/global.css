@@ -56,7 +56,7 @@
 #scrollbutton-up[part="scrollbutton-up"]:not(.menupopup-scrollbutton),
 #scrollbutton-down[part="scrollbutton-down"]:not(.menupopup-scrollbutton)
 {
-	border-radius: 99px !important;
+	border-radius: 6px !important;
 	transition-property:
 		background-color,
 		background-size,
